@@ -11,9 +11,9 @@ My first repository
 ---------------------------------------------------------------------
 
 **Main Characters**
--Naruto Uzumaki
--Sasuke Uchiha
--Sakura Haruno
--Kakashi Hatake
+- Naruto Uzumaki
+- Sasuke Uchiha
+- Sakura Haruno
+- Kakashi Hatake
 
   
